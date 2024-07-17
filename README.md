@@ -28,5 +28,5 @@ Every screenshot should have some text explaining what the screenshot is about.
 
 Example below.
 
-*Ref 1: Network Diagram*
-![Paragon AD Logical Diagram drawio](https://github.com/user-attachments/assets/7438e050-661a-4b6f-9f9d-c73b167b3092)
+*This is the Logical Diagram to help understand how the data is going to flow!
+![Paragon AD Logical Diagram 1](https://github.com/user-attachments/assets/38792190-d4fa-4226-8ae7-8126675b8784)
