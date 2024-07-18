@@ -2,8 +2,7 @@
 
 ## Objective
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
-
+The goal of this project is to establish an Active Directory (home lab) incorporating Splunk, Kali Linux, and Atomic Red Team. Its purpose is to gain insights into domain environments, develop skills in event ingestion for a SIEM, and generate telemetry to detect real-world attacks effectively in the future.
 ### Skills Learned
 
 - Advanced understanding of SIEM concepts and practical application.
