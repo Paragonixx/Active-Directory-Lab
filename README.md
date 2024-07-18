@@ -15,6 +15,7 @@ The Detection Lab project aimed to establish a controlled environment for simula
 ### Tools Used
 
 - Windows Server 2022
+- Ubuntu Server 22.04
 - Windows 10
 - Kali Linux
 - Splunk
