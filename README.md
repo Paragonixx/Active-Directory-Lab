@@ -2,7 +2,8 @@
 
 ## Objective
 
-The goal of this project is to establish an Active Directory (home lab) incorporating Splunk, Kali Linux, and Atomic Red Team. Its purpose is to gain insights into domain environments, develop skills in event ingestion for a SIEM, and generate telemetry to detect real-world attacks effectively in the future.
+The aim of this project is to create a home lab Active Directory setup integrating Splunk, Kali Linux, and Atomic Red Team. The objective is to understand domain environments, enhance proficiency in event ingestion for a SIEM, and generate telemetry for improved detection of real-world attacks in the future.
+
 ### Skills Learned
 
 - Advanced understanding of SIEM concepts and practical application.
