@@ -6,7 +6,8 @@ The aim of this project is to create a home lab Active Directory setup integrati
 
 ### Skills Learned
 
-- 
+- Installing and configuring windows server 2022, Ubuntu server 22.04, Windows 10 and Kali Linux
+- Installing and configuring Sysmon and Splunk on to Windows 10 and Windows server
 ### Tools Used
 
 - Windows Server 2022 | For Active Directory
