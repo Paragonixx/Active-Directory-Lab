@@ -32,6 +32,6 @@ The aim of this project is to create a home lab Active Directory setup integrati
 *Setting up a static IP on my splunk server to reflect the static IP from my diagram 
 <img width="638" alt="Screenshot 2024-08-05 at 12 36 28 PM" src="https://github.com/user-attachments/assets/a75f6495-1132-44f8-b38e-be5df519598e">
 
-*Added a shared folder where my Splunk installation lives  (added a user to vboxsf (not shown)
+*Added a shared folder where my Splunk installation lives 
 ![Shared folder](https://github.com/user-attachments/assets/03dff41e-45de-4ddd-b79e-411f278ccba3)
 
