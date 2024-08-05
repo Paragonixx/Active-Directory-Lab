@@ -9,10 +9,10 @@ The aim of this project is to create a home lab Active Directory setup integrati
 - 
 ### Tools Used
 
-- Windows Server 2022
-- Ubuntu Server 22.04
-- Windows 10
-- Kali Linux
+- Windows Server 2022 | For Active Directory
+- Ubuntu Server 22.04 | For Splunk
+- Windows 10 | As my target machine
+- Kali Linux | As my attacker machine
 - Splunk
 - Sysmon
 - Atomic Red Team 
