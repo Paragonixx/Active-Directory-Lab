@@ -51,4 +51,8 @@ The aim of this project is to create a home lab Active Directory setup integrati
 
 ![Setting up splunk univesal forwarde](https://github.com/user-attachments/assets/1fa70b22-d56b-40e1-9a08-d37f9ba199ef)
 
+*Installing sysmon and using the olaf configuration 
 
+
+![downloading sysmon64 to windows ](https://github.com/user-attachments/assets/933f0412-a8d5-49b7-a2dc-2162def2905a)
+![Sysmon config file olaf](https://github.com/user-attachments/assets/fe7f2729-5f69-4050-af1f-f389615df987)
