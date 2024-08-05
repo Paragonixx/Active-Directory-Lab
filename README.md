@@ -28,3 +28,6 @@ The aim of this project is to create a home lab Active Directory setup integrati
 *The assets/ virtual machines (Windows server 2022 (ADDC02), Kali Linux, Windows 10 (Demo), Ubuntu Server 2022 (Splunk)
 <img width="523" alt="Screenshot 2024-08-05 at 11 39 18 AM" src="https://github.com/user-attachments/assets/93d47480-8095-4fc4-978f-ae17e46ba7d1">
 
+*Setting up a static IP on my splunk server to reflect the static IP from my diagram 
+<img width="312" alt="Screenshot 2024-08-05 at 12 30 27 PM" src="https://github.com/user-attachments/assets/c4533dbc-1ea4-4a92-94d4-086738631d2a">
+
