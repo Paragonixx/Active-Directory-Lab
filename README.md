@@ -72,3 +72,7 @@ The aim of this project is to create a home lab Active Directory setup integrati
 
 *Promoting the server to a Domain Controller (didn't take screenshot after I already created it) 
 ![Screenshot 2024-08-05 at 3 55 07 PM](https://github.com/user-attachments/assets/024c9698-a2d8-4a58-af38-6db078f4da44)
+
+*Created users in AD
+
+![Created users in AD](https://github.com/user-attachments/assets/035d8a62-ab10-4e66-baaf-9038e0c1d674)
