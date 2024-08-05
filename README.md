@@ -33,5 +33,5 @@ The aim of this project is to create a home lab Active Directory setup integrati
 <img width="638" alt="Screenshot 2024-08-05 at 12 36 28 PM" src="https://github.com/user-attachments/assets/a75f6495-1132-44f8-b38e-be5df519598e">
 
 *Added a shared folder where my Splunk installation lives  (added a user to vboxsf (not shown)
-<img width="350" alt="Screenshot 2024-08-05 at 12 58 13 PM" src="https://github.com/user-attachments/assets/204e5f38-e246-4a0e-9120-30a4ac92f613">
+![Shared folder](https://github.com/user-attachments/assets/03dff41e-45de-4ddd-b79e-411f278ccba3)
 
