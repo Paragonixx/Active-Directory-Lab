@@ -48,6 +48,7 @@ The aim of this project is to create a home lab Active Directory setup integrati
 *Updating the target machine (windows 10) ip address <img width="889" alt="Pointing windows machine to domain controller" src="https://github.com/user-attachments/assets/155cdfd0-a552-4763-82d4-166f56b90323">
 
 *installing splunk universal forwarder 
+
 ![Setting up splunk univesal forwarde](https://github.com/user-attachments/assets/1fa70b22-d56b-40e1-9a08-d37f9ba199ef)
 
 
