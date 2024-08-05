@@ -30,5 +30,4 @@ The aim of this project is to create a home lab Active Directory setup integrati
 
 *Setting up a static IP on my splunk server to reflect the static IP from my diagram 
 
-<img width="312" alt="Screenshot 2024-08-05 at 12 30 27 PM" src="https://github.com/user-attachments/assets/c4533dbc-1ea4-4a92-94d4-086738631d2a">
 
