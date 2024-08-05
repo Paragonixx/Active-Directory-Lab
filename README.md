@@ -44,3 +44,6 @@ The aim of this project is to create a home lab Active Directory setup integrati
   
 ![installing splunk](https://github.com/user-attachments/assets/aad666ee-0eb2-4d1a-8d85-b9fcb59b7a5a)
 ![Screenshot 2024-07-17 at 8 31 55 PM](https://github.com/user-attachments/assets/912eeff7-23e8-4341-b2fc-8bc7719755b8)
+
+*Updating the target machine (windows 10) ip address <img width="889" alt="Pointing windows machine to domain controller" src="https://github.com/user-attachments/assets/155cdfd0-a552-4763-82d4-166f56b90323">
+
