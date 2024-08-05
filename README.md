@@ -61,6 +61,7 @@ The aim of this project is to create a home lab Active Directory setup integrati
 
 ![Endpoing config for splunk](https://github.com/user-attachments/assets/630c4101-779f-4934-889a-5c744135aa04)
 
-*Creating the index in splunk called "Endpoint" (all events from the inputs file are being pushed to an index called enpoints)
+*Creating the index in splunk called "Endpoint" (all events from the inputs file are being pushed to an index called enpoints) && showing that the it is receiving the events!
 
 <img width="888" alt="Creating the endpoint index for splunk" src="https://github.com/user-attachments/assets/88928d9a-b0c7-4201-9a87-40585a2879e5">
+<img width="879" alt="splunk showing events from windows 10" src="https://github.com/user-attachments/assets/2bef49df-4d99-43df-b3ee-5b2909e546ee">
