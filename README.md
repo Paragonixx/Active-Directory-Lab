@@ -57,6 +57,6 @@ The aim of this project is to create a home lab Active Directory setup integrati
 ![downloading sysmon64 to windows ](https://github.com/user-attachments/assets/933f0412-a8d5-49b7-a2dc-2162def2905a)
 ![Sysmon config file olaf](https://github.com/user-attachments/assets/fe7f2729-5f69-4050-af1f-f389615df987)
 
-*Instructing Splunk forwarder on what to send to Splunk server by configuring a index file
+*Instructing Splunk forwarder on what to send to Splunk server by configuring a index file ( I created this file under the local directory and not the default directory) (Instructing splunk forwarder to push events related to Application, Security, System as well as Sysmon over to Splunk service)
 
 ![Endpoing config for splunk](https://github.com/user-attachments/assets/630c4101-779f-4934-889a-5c744135aa04)
