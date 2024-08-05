@@ -76,3 +76,6 @@ The aim of this project is to create a home lab Active Directory setup integrati
 *Created users in AD
 
 ![Created users in AD](https://github.com/user-attachments/assets/035d8a62-ab10-4e66-baaf-9038e0c1d674)
+
+*Joining target machine (windows 10) to my domain and authenicating it using new user "Jenny Smith" account<img width="889" alt="Screenshot 2024-07-31 at 1 05 05 PM" src="https://github.com/user-attachments/assets/d92875f4-f673-42cb-a47a-70637eb166b6">
+<img width="894" alt="authenticating DC with new user jenny" src="https://github.com/user-attachments/assets/778a7392-aa3d-4f6b-a2c5-d27caedc8bd3">
