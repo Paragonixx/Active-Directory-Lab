@@ -37,3 +37,5 @@ The aim of this project is to create a home lab Active Directory setup integrati
 
 ** Added a user to vboxsf (not shown) and mounted my shared folder onto my directory called "Shared" 
 <img width="639" alt="Screenshot 2024-08-05 at 1 28 26 PM" src="https://github.com/user-attachments/assets/057924a3-702d-4fcf-bc49-1afcd340e787">
+
+![Loading splunk into ubuntu server](https://github.com/user-attachments/assets/6e27c600-e3a9-42d2-8636-7d6f5f875fd3)
