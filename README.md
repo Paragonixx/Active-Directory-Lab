@@ -41,5 +41,6 @@ The aim of this project is to create a home lab Active Directory setup integrati
 ![Loading splunk into ubuntu server](https://github.com/user-attachments/assets/6e27c600-e3a9-42d2-8636-7d6f5f875fd3)
 
 * Installing Splunk
+  
 ![installing splunk](https://github.com/user-attachments/assets/aad666ee-0eb2-4d1a-8d85-b9fcb59b7a5a)
 ![Screenshot 2024-07-17 at 8 31 55 PM](https://github.com/user-attachments/assets/912eeff7-23e8-4341-b2fc-8bc7719755b8)
