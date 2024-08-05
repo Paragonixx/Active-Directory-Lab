@@ -23,5 +23,6 @@ The aim of this project is to create a home lab Active Directory setup integrati
 *This is the Logical Diagram to help understand how the data is going to flow!
 ![Paragon AD Logical Diagram 1](https://github.com/user-attachments/assets/38792190-d4fa-4226-8ae7-8126675b8784)
 
-The assets/ virtual machines (Windows server 2022, Kali Linux, Windows 10, Ubuntu Server 2022)
-![Active Directory project vms](https://github.com/user-attachments/assets/be30252d-2867-4958-bff5-2a3a16467705)
+The assets/ virtual machines (Windows server 2022 (ADDC02), Kali Linux, Windows 10 (Demo), Ubuntu Server 2022 (Splunk)
+<img width="523" alt="Screenshot 2024-08-05 at 11 39 18 AM" src="https://github.com/user-attachments/assets/93d47480-8095-4fc4-978f-ae17e46ba7d1">
+
