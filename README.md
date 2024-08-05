@@ -60,3 +60,7 @@ The aim of this project is to create a home lab Active Directory setup integrati
 *Instructing Splunk forwarder on what to send to Splunk server by configuring a index file ( I created this file under the local directory and not the default directory) (Instructing splunk forwarder to push events related to Application, Security, System as well as Sysmon over to Splunk service)
 
 ![Endpoing config for splunk](https://github.com/user-attachments/assets/630c4101-779f-4934-889a-5c744135aa04)
+
+*Creating the index in splunk called "Endpoint" (all events from the inputs file are being pushed to an index called enpoints)
+
+<img width="888" alt="Creating the endpoint index for splunk" src="https://github.com/user-attachments/assets/88928d9a-b0c7-4201-9a87-40585a2879e5">
