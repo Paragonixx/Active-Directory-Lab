@@ -35,3 +35,5 @@ The aim of this project is to create a home lab Active Directory setup integrati
 *Added a shared folder where my Splunk installation lives 
 ![Shared folder](https://github.com/user-attachments/assets/03dff41e-45de-4ddd-b79e-411f278ccba3)
 
+** Added a user to vboxsf (not shown) and mounted my shared folder onto my directory called "Shared" 
+<img width="639" alt="Screenshot 2024-08-05 at 1 28 26 PM" src="https://github.com/user-attachments/assets/057924a3-702d-4fcf-bc49-1afcd340e787">
