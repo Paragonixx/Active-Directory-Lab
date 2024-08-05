@@ -65,3 +65,6 @@ The aim of this project is to create a home lab Active Directory setup integrati
 
 <img width="888" alt="Creating the endpoint index for splunk" src="https://github.com/user-attachments/assets/88928d9a-b0c7-4201-9a87-40585a2879e5">
 <img width="879" alt="splunk showing events from windows 10" src="https://github.com/user-attachments/assets/2bef49df-4d99-43df-b3ee-5b2909e546ee">
+
+*Installing Active Directory 
+<img width="807" alt="Screenshot 2024-07-31 at 12 20 11 PM" src="https://github.com/user-attachments/assets/81a2ed60-6977-43eb-a93f-2d7d33fa6f65">
