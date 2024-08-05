@@ -68,3 +68,4 @@ The aim of this project is to create a home lab Active Directory setup integrati
 
 *Installing Active Directory 
 <img width="807" alt="Screenshot 2024-07-31 at 12 20 11 PM" src="https://github.com/user-attachments/assets/81a2ed60-6977-43eb-a93f-2d7d33fa6f65">
+<img width="815" alt="Installing AD" src="https://github.com/user-attachments/assets/31fd98bb-153a-4182-8dcb-788da6c188e2">
