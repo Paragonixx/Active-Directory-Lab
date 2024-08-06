@@ -85,6 +85,7 @@ The aim of this project is to create a home lab Active Directory setup integrati
 ![static ip for kali linux](https://github.com/user-attachments/assets/7133eb96-43a9-41f0-8e6a-04dd1e4a6341)
 
 *Creating up a new directory and installing "crowbar" to use for the brute force attack!
+
 ![installing crowbar](https://github.com/user-attachments/assets/14ae7a09-24b2-4c2f-9078-ce1d64935847)
 
 *I used a wordlist called "rockyou.txt" and copied it to a file named "password.txt". After, I added AD user Terry Smith's password to the password file (not-shown) and performed the brute force attack using crowbar!
