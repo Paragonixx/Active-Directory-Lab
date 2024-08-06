@@ -9,6 +9,13 @@ The aim of this project is to create a home lab Active Directory setup integrati
 
 - Installing and configuring windows server 2022, Ubuntu server 22.04, Windows 10 and Kali Linux
 - Installing and configuring Sysmon and Splunk on to Windows 10 and Windows server
+- Learning how to set up static ip's for all my virtual machines
+- Splunk Universal Forwarder
+- Setting up Active Directory and adding users
+- Setting up a Domain controller
+- Performing a Brute Force attack
+- Setting up and working with ATR for detection , Learning some Atomic technique ID's
+- 
 ### Tools Used
 
 - Windows Server 2022 | For Active Directory
@@ -97,3 +104,11 @@ The aim of this project is to create a home lab Active Directory setup integrati
 *I went to splunk to see if the brute force attack generated a event and it did!
 
 ![BF event splunk](https://github.com/user-attachments/assets/30451325-89f5-4852-a8c3-0fe48ef986b4)
+
+*Installing ATR (Atomic Red Team) 
+![Installing ATR](https://github.com/user-attachments/assets/6e24dc85-4a38-4732-93aa-86a578c5af1a)
+
+*Invoking ATR techinque IDs 
+![Screenshot 2024-07-31 at 3 05 01 PM](https://github.com/user-attachments/assets/e68577a4-acd4-44c7-be66-c476f3d2c3fc)
+
+&& That completes my project!
