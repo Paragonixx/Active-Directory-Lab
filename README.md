@@ -79,3 +79,14 @@ The aim of this project is to create a home lab Active Directory setup integrati
 
 *Joining target machine (windows 10) to my domain and authenicating it using new user "Jenny Smith" account<img width="889" alt="Screenshot 2024-07-31 at 1 05 05 PM" src="https://github.com/user-attachments/assets/d92875f4-f673-42cb-a47a-70637eb166b6">
 <img width="528" alt="Screenshot 2024-08-05 at 4 20 13 PM" src="https://github.com/user-attachments/assets/10da9da1-c6bc-47a2-aa28-01fde4932f61">
+
+*Setting up the static ip for Kali linux
+
+![static ip for kali linux](https://github.com/user-attachments/assets/7133eb96-43a9-41f0-8e6a-04dd1e4a6341)
+
+*Creating up a new directory and installing "crowbar" to use for the brute force attack!
+![installing crowbar](https://github.com/user-attachments/assets/14ae7a09-24b2-4c2f-9078-ce1d64935847)
+
+*I used a wordlist called "rockyou.txt" and copied it to a file named "password.txt". After, I added AD user Terry Smith's password to the password file (not-shown) and performed the brute force attack using crowbar!
+
+![Screenshot 2024-07-31 at 2 19 11 PM](https://github.com/user-attachments/assets/22e897d4-b0aa-4f49-a884-44842ee71488)
