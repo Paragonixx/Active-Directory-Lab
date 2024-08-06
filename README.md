@@ -89,4 +89,5 @@ The aim of this project is to create a home lab Active Directory setup integrati
 
 *I used a wordlist called "rockyou.txt" and copied it to a file named "password.txt". After, I added AD user Terry Smith's password to the password file (not-shown) and performed the brute force attack using crowbar!
 
+
 ![Screenshot 2024-07-31 at 2 19 11 PM](https://github.com/user-attachments/assets/22e897d4-b0aa-4f49-a884-44842ee71488)
