@@ -15,7 +15,7 @@ The aim of this project is to create a home lab Active Directory setup integrati
 - Setting up a Domain controller
 - Performing a Brute Force attack
 - Setting up and working with ATR for detection , Learning some Atomic technique ID's
-- 
+
 ### Tools Used
 
 - Windows Server 2022 | For Active Directory
