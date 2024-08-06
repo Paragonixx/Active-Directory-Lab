@@ -93,3 +93,7 @@ The aim of this project is to create a home lab Active Directory setup integrati
 
 
 ![Screenshot 2024-07-31 at 2 19 11 PM](https://github.com/user-attachments/assets/22e897d4-b0aa-4f49-a884-44842ee71488)
+
+*I went to splunk to see if the brute force attack generated a event and it did!
+
+![BF event splunk](https://github.com/user-attachments/assets/30451325-89f5-4852-a8c3-0fe48ef986b4)
